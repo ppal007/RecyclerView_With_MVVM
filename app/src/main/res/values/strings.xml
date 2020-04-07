@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RecyclerView_With_MVVM</string>
+    <string name="recycler_view_with_mvvm">Recycler View With MVVM</string>
+</resources>
